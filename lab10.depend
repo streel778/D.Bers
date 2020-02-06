@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1577044080 source:c:\users\stree\desktop\Программирование 2 курс\labs\lab10\figure.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+
+1577043157 c:\users\stree\desktop\Программирование 2 курс\labs\lab10\figure.h
+
+1576041590 source:c:\users\stree\desktop\Программирование 2 курс\labs\lab10\main.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1577045144 c:\users\stree\desktop\Программирование 2 курс\labs\lab10\cylinder.h
+
+1577045216 source:c:\users\stree\desktop\Программирование 2 курс\labs\lab10\cylinder.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1576043172 source:e:\программирование 2 курс\labs\lab10\cylinder.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1576043947 e:\программирование 2 курс\labs\lab10\figure.h
+
+1576043918 e:\программирование 2 курс\labs\lab10\cylinder.h
+
+1576042902 source:e:\программирование 2 курс\labs\lab10\figure.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+
+1576041590 source:e:\программирование 2 курс\labs\lab10\main.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1577045216 source:e:\Программирование 2 курс\labs\lab10\cylinder.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1577043157 e:\Программирование 2 курс\labs\lab10\figure.h
+
+1577045144 e:\Программирование 2 курс\labs\lab10\cylinder.h
+
+1577044080 source:e:\Программирование 2 курс\labs\lab10\figure.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+
+1577047106 source:e:\Программирование 2 курс\labs\lab10\main.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1577045216 source:d:\Программирование 2 курс\labs\lab10\cylinder.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
+1577043157 d:\Программирование 2 курс\labs\lab10\figure.h
+
+1577045144 d:\Программирование 2 курс\labs\lab10\cylinder.h
+
+1577044080 source:d:\Программирование 2 курс\labs\lab10\figure.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+
+1577047106 source:d:\Программирование 2 курс\labs\lab10\main.cpp
+	<iostream>
+	<string.h>
+	"Figure.h"
+	"Cylinder.h"
+
